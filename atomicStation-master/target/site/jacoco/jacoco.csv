@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+atomicStation,org.javaacademy.atomicStation.secutiry,SecutiryDepartment,0,25,0,0,0,8,0,4,0,4
+atomicStation,org.javaacademy.atomicStation.staff,ReactorStatus,3,25,0,0,1,2,1,2,1,2
+atomicStation,org.javaacademy.atomicStation.station,NuclearStation,0,107,0,4,0,29,0,7,0,5
+atomicStation,org.javaacademy.atomicStation.station,ReactorDepartment,0,62,0,6,0,18,0,6,0,3
+atomicStation,org.javaacademy.atomicStation.staff.exceptions,ReactorWorkException,0,4,0,0,0,2,0,1,0,1
+atomicStation,org.javaacademy.atomicStation.staff.exceptions,NuclearFuelIsEmptyException,0,3,0,0,0,2,0,1,0,1
+atomicStation,org.javaacademy.atomicStation.economic,MoroccoEconomicDepartment,18,23,1,1,1,6,1,2,0,2
+atomicStation,org.javaacademy.atomicStation.economic,FranceEconomicDepartment,0,47,0,2,0,11,0,3,0,2
+atomicStation,org.javaacademy.atomicStation.economic,EconomicDepartment,0,9,0,0,0,3,0,3,0,3

@@ -1,0 +1,7 @@
+energy:
+  cost:
+    low: 5
+    high: 6
+  currency: dirhams
+country:
+  name: Morocco

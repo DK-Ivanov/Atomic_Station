@@ -1,0 +1,5 @@
+energy:
+  cost: 0.5
+  currency: euro
+country:
+  name: France

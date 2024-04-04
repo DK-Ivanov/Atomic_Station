@@ -1,0 +1,7 @@
+org\javaacademy\atomicStation\unit_tests\NuclearStationTest.class
+org\javaacademy\atomicStation\unit_tests\FranceEconomicDepartmentTest.class
+org\javaacademy\atomicStation\unit_tests\MoroccoEconomicDepartmentTest.class
+org\javaacademy\atomicStation\unit_tests\SecutiryDepartmentTest.class
+org\javaacademy\atomicStation\unit_tests\ReactorDepartmentTest.class
+org\javaacademy\atomicStation\RunnerFranceTests.class
+org\javaacademy\atomicStation\RunnerMoroccoTests.class
